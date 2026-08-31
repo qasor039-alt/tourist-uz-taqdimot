@@ -1,0 +1,6 @@
+{
+  "name": "Tourest.uz Taqdimoti",
+  "description": "Tourest.uz — O'zbekiston turizm ekotizimi va mobil ilovasi uchun to'liq va batafsil interaktiv taqdimot (Pitch Deck).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
